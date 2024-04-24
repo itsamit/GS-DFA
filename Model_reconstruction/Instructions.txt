@@ -1,0 +1,1 @@
+To ensure seamless execution of the model integration script, it's necessary to add Cobratool box and Revan to the MATLAB path. Due to its large file size, we cannot provide it on GitHub. However, it can be made available upon request to the corresponding author.
